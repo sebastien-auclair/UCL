@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Twitter
 
-##    -Ayush Pareek
+##    -Sebastien Auclair & Ayush Pareek
 
 [Click here to see a video about this work](https://www.youtube.com/watch?v=rM87H75JNjA)
 
