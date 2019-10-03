@@ -2,14 +2,6 @@
 
 ##    -Sebastien Auclair & Ayush Pareek
 
-[Click here to see a video about this work](https://www.youtube.com/watch?v=rM87H75JNjA)
-
-[Click here to see an introductory presentation given during a rudimentary stage of this project](https://www.slideshare.net/secret/MuWmNWZxYi2l9t)
-
-[![Join the chat at https://gitter.im/Sentiment-Analysis-Twitter/Lobby](https://badges.gitter.im/Sentiment-Analysis-Twitter/Lobby.svg)](https://gitter.im/Sentiment-Analysis-Twitter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-### Update: I've sold this project to the AI and Data Science PaaS company OnePanel Inc. who are hosting it as a commercial API here-> https://www.onepanel.io/algorithms/twitter-sentiment-analyzer.html. However, I will continue to publicly host the code for the open-source community.
-
 Microblogging today has become a very popular communication tool among Internet users. Millions of messages are appearing daily in popular web-sites that provide services for microblogging such as Twitter, Tumblr, Facebook. Authors of those messages write about their life, share opinions on variety of topics and discuss current issues. Because of a free format of messages and an easy accessibility
 of microblogging platforms, Internet users tend to shift from traditional communication tools (such as traditional blogs or mailing lists) to microblogging services. As more and more users post about products and services they use, or express their political and religious views, microblogging web-sites become valuable sources of people’s opinions and sentiments. Such data can be efficiently used
 for marketing or social studies.[1]
