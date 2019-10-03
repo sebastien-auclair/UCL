@@ -1,4 +1,4 @@
-#@uthor: Ayush Pareek
+#@uthor: Ayush Pareek & Sebastien Auclair
 import sys, time, os
 import random, re, csv, collections
 import nltk, pylab, numpy
