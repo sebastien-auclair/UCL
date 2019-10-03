@@ -1,6 +1,6 @@
 """
 Sentiment Analysis of Twitter Feeds
-@Ayush Pareek
+@ Sebastien Auclair & Ayush Pareek
 """
 
 import sys, os, random
